@@ -1,0 +1,7 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX13Arrays\bin\Debug\EX13Arrays.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX13Arrays\bin\Debug\EX13Arrays.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX13Arrays\bin\Debug\EX13Arrays.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX13Arrays\obj\Debug\EX13Arrays.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX13Arrays\obj\Debug\EX13Arrays.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX13Arrays\obj\Debug\EX13Arrays.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX13Arrays\obj\Debug\EX13Arrays.csprojResolveAssemblyReference.cache

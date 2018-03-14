@@ -1,0 +1,9 @@
+C:\Users\malt2586\source\repos\Fragtberegner_WPF\Test\bin\Debug\Test.exe.config
+C:\Users\malt2586\source\repos\Fragtberegner_WPF\Test\bin\Debug\Test.exe
+C:\Users\malt2586\source\repos\Fragtberegner_WPF\Test\bin\Debug\Test.pdb
+C:\Users\malt2586\source\repos\Fragtberegner_WPF\Test\bin\Debug\Entities.dll
+C:\Users\malt2586\source\repos\Fragtberegner_WPF\Test\bin\Debug\Entities.pdb
+C:\Users\malt2586\source\repos\Fragtberegner_WPF\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\Fragtberegner_WPF\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\Fragtberegner_WPF\Test\obj\Debug\Test.exe
+C:\Users\malt2586\source\repos\Fragtberegner_WPF\Test\obj\Debug\Test.pdb

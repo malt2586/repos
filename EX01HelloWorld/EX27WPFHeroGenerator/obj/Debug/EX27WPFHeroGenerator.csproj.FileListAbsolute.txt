@@ -1,0 +1,15 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\bin\Debug\EX27WPFHeroGenerator.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\bin\Debug\EX27WPFHeroGenerator.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\bin\Debug\EX27WPFHeroGenerator.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\EX27WPFHeroGenerator.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\App.g.cs
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\EX27WPFHeroGenerator_MarkupCompile.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\EX27WPFHeroGenerator_MarkupCompile.lref
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\MainWindow.baml
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\EX27WPFHeroGenerator.g.resources
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\EX27WPFHeroGenerator.Properties.Resources.resources
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\EX27WPFHeroGenerator.csproj.GenerateResource.Cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\EX27WPFHeroGenerator.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\EX27WPFHeroGenerator.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX27WPFHeroGenerator\obj\Debug\EX27WPFHeroGenerator.pdb

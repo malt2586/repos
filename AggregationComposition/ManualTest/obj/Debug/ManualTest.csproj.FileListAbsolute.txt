@@ -1,0 +1,9 @@
+c:\users\malt2586\source\repos\AggregationComposition\ManualTest\bin\Debug\ManualTest.exe.config
+c:\users\malt2586\source\repos\AggregationComposition\ManualTest\bin\Debug\ManualTest.exe
+c:\users\malt2586\source\repos\AggregationComposition\ManualTest\bin\Debug\ManualTest.pdb
+c:\users\malt2586\source\repos\AggregationComposition\ManualTest\obj\Debug\ManualTest.csproj.CoreCompileInputs.cache
+c:\users\malt2586\source\repos\AggregationComposition\ManualTest\obj\Debug\ManualTest.exe
+c:\users\malt2586\source\repos\AggregationComposition\ManualTest\obj\Debug\ManualTest.pdb
+C:\Users\malt2586\source\repos\AggregationComposition\ManualTest\obj\Debug\ManualTest.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\AggregationComposition\ManualTest\bin\Debug\Entities.dll
+C:\Users\malt2586\source\repos\AggregationComposition\ManualTest\bin\Debug\Entities.pdb

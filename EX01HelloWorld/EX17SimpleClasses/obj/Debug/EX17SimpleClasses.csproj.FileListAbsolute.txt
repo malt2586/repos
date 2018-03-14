@@ -1,0 +1,7 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX17SimpleClasses\bin\Debug\EX17SimpleClasses.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX17SimpleClasses\bin\Debug\EX17SimpleClasses.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX17SimpleClasses\bin\Debug\EX17SimpleClasses.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX17SimpleClasses\obj\Debug\EX17SimpleClasses.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX17SimpleClasses\obj\Debug\EX17SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX17SimpleClasses\obj\Debug\EX17SimpleClasses.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX17SimpleClasses\obj\Debug\EX17SimpleClasses.pdb

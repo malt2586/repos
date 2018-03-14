@@ -1,0 +1,6 @@
+C:\Users\malt2586\source\repos\Inheritance\ShapeEntities\bin\Debug\ShapeEntities.dll
+C:\Users\malt2586\source\repos\Inheritance\ShapeEntities\bin\Debug\ShapeEntities.pdb
+C:\Users\malt2586\source\repos\Inheritance\ShapeEntities\obj\Debug\ShapeEntities.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\Inheritance\ShapeEntities\obj\Debug\ShapeEntities.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\Inheritance\ShapeEntities\obj\Debug\ShapeEntities.dll
+C:\Users\malt2586\source\repos\Inheritance\ShapeEntities\obj\Debug\ShapeEntities.pdb

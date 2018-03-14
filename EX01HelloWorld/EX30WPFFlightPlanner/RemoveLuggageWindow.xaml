@@ -1,0 +1,24 @@
+﻿<Window x:Class="EX30WPFFlightPlanner.RemoveLuggageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX30WPFFlightPlanner"
+        mc:Ignorable="d"
+        Title="Remove Luggage" Height="250" Width="260" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="lblLuggage" Content="Luggage:"  Margin="10,0" Grid.Column="0" Grid.Row="0"/>
+        <ListBox x:Name="lbxLuggage" Margin="10,0" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnRemoveLuggage" Content="Remove Luggage" Margin="10,10" Width="100" Grid.Column="0" Grid.Row="5" Click="btnRemoveLuggage_Click" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button x:Name="btnClose" Content="Close" Margin="10,10" Padding="10,0" Width="Auto" Grid.Column="1" Grid.Row="5" Click="btnClose_Click" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\bin\Debug\WebRequest.exe.config
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\bin\Debug\WebRequest.exe
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\bin\Debug\WebRequest.pdb
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\bin\Debug\HtmlAgilityPack.xml
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\obj\Debug\WebRequest.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\obj\Debug\WebRequest.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\obj\Debug\WebRequest.exe
+C:\Users\malt2586\source\repos\WebRequest\WebRequest\obj\Debug\WebRequest.pdb

@@ -1,0 +1,9 @@
+C:\Users\malt2586\source\repos\S2_Opgave3_Spejderkorps\.vs\S2_Opgave3_Spejderkorps\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\malt2586\source\repos\S2_Opgave3_Spejderkorps\.vs\S2_Opgave3_Spejderkorps\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\malt2586\source\repos\S2_Opgave3_Spejderkorps\.vs\S2_Opgave3_Spejderkorps\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\malt2586\source\repos\S2_Opgave3_Spejderkorps\.vs\S2_Opgave3_Spejderkorps\lut\0\b\Entities.Test.dll
+C:\Users\malt2586\source\repos\S2_Opgave3_Spejderkorps\.vs\S2_Opgave3_Spejderkorps\lut\0\b\Entities.Test.pdb
+C:\Users\malt2586\source\repos\S2_Opgave3_Spejderkorps\.vs\S2_Opgave3_Spejderkorps\lut\0\i\Entities.Test\Debug\Entities.Test.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\S2_Opgave3_Spejderkorps\.vs\S2_Opgave3_Spejderkorps\lut\0\i\Entities.Test\Debug\Entities.Test.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\S2_Opgave3_Spejderkorps\.vs\S2_Opgave3_Spejderkorps\lut\0\i\Entities.Test\Debug\Entities.Test.dll
+C:\Users\malt2586\source\repos\S2_Opgave3_Spejderkorps\.vs\S2_Opgave3_Spejderkorps\lut\0\i\Entities.Test\Debug\Entities.Test.pdb

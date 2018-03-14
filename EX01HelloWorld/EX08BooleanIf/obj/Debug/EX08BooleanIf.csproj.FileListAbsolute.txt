@@ -1,0 +1,6 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX08BooleanIf\bin\Debug\EX08BooleanIf.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX08BooleanIf\bin\Debug\EX08BooleanIf.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX08BooleanIf\bin\Debug\EX08BooleanIf.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX08BooleanIf\obj\Debug\EX08BooleanIf.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX08BooleanIf\obj\Debug\EX08BooleanIf.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX08BooleanIf\obj\Debug\EX08BooleanIf.pdb

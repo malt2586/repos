@@ -1,0 +1,8 @@
+C:\Users\malt2586\source\repos\OpenWeatherMap.App\APIAccess\bin\Debug\APIAccess.dll
+C:\Users\malt2586\source\repos\OpenWeatherMap.App\APIAccess\bin\Debug\APIAccess.pdb
+C:\Users\malt2586\source\repos\OpenWeatherMap.App\APIAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\malt2586\source\repos\OpenWeatherMap.App\APIAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\malt2586\source\repos\OpenWeatherMap.App\APIAccess\obj\Debug\APIAccess.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\OpenWeatherMap.App\APIAccess\obj\Debug\APIAccess.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\OpenWeatherMap.App\APIAccess\obj\Debug\APIAccess.dll
+C:\Users\malt2586\source\repos\OpenWeatherMap.App\APIAccess\obj\Debug\APIAccess.pdb

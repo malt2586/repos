@@ -1,0 +1,7 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01MathQuiz\bin\Debug\ExtraEX01MathQuiz.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01MathQuiz\bin\Debug\ExtraEX01MathQuiz.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01MathQuiz\bin\Debug\ExtraEX01MathQuiz.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01MathQuiz\obj\Debug\ExtraEX01MathQuiz.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01MathQuiz\obj\Debug\ExtraEX01MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01MathQuiz\obj\Debug\ExtraEX01MathQuiz.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01MathQuiz\obj\Debug\ExtraEX01MathQuiz.pdb

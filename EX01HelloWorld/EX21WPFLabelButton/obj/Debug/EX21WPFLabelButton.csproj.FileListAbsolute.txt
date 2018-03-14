@@ -1,0 +1,15 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\bin\Debug\EX21WPFLabelButton.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\bin\Debug\EX21WPFLabelButton.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\bin\Debug\EX21WPFLabelButton.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\EX21WPFLabelButton.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\MainWindow.g.cs
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\App.g.cs
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\EX21WPFLabelButton_MarkupCompile.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\EX21WPFLabelButton_MarkupCompile.lref
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\MainWindow.baml
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\EX21WPFLabelButton.g.resources
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\EX21WPFLabelButton.Properties.Resources.resources
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\EX21WPFLabelButton.csproj.GenerateResource.Cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\EX21WPFLabelButton.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\EX21WPFLabelButton.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX21WPFLabelButton\obj\Debug\EX21WPFLabelButton.pdb

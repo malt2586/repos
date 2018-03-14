@@ -1,0 +1,7 @@
+C:\Users\malt2586\source\repos\S2_Interface_Inheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe.config
+C:\Users\malt2586\source\repos\S2_Interface_Inheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.exe
+C:\Users\malt2586\source\repos\S2_Interface_Inheritance\InterfaceInheritance\bin\Debug\InterfaceInheritance.pdb
+C:\Users\malt2586\source\repos\S2_Interface_Inheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\S2_Interface_Inheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\S2_Interface_Inheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.exe
+C:\Users\malt2586\source\repos\S2_Interface_Inheritance\InterfaceInheritance\obj\Debug\InterfaceInheritance.pdb

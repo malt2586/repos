@@ -1,0 +1,13 @@
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\bin\Debug\Entities.Tests.dll
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\bin\Debug\Entities.Tests.pdb
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\bin\Debug\Entities.dll
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\bin\Debug\Entities.pdb
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\obj\Debug\Entities.Tests.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\obj\Debug\Entities.Tests.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\obj\Debug\Entities.Tests.dll
+C:\Users\malt2586\source\repos\UmlTraining\Entities.Tests\obj\Debug\Entities.Tests.pdb

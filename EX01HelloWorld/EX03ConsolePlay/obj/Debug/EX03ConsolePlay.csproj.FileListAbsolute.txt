@@ -1,0 +1,6 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX03ConsolePlay\bin\Debug\EX03ConsolePlay.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX03ConsolePlay\bin\Debug\EX03ConsolePlay.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX03ConsolePlay\bin\Debug\EX03ConsolePlay.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX03ConsolePlay\obj\Debug\EX03ConsolePlay.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX03ConsolePlay\obj\Debug\EX03ConsolePlay.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX03ConsolePlay\obj\Debug\EX03ConsolePlay.pdb

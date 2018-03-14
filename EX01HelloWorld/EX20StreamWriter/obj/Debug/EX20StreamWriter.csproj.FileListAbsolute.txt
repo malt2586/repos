@@ -1,0 +1,7 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX20StreamWriter\bin\Debug\EX20StreamWriter.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX20StreamWriter\bin\Debug\EX20StreamWriter.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX20StreamWriter\bin\Debug\EX20StreamWriter.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX20StreamWriter\obj\Debug\EX20StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX20StreamWriter\obj\Debug\EX20StreamWriter.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX20StreamWriter\obj\Debug\EX20StreamWriter.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX20StreamWriter\obj\Debug\EX20StreamWriter.csprojResolveAssemblyReference.cache

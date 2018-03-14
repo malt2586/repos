@@ -1,0 +1,19 @@
+﻿<Window x:Class="EX22WPFTextBlockTextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX22WPFTextBlockTextBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock Margin="10,10,78,270.5">waq waaaaaaq waaaaaaaq waaaaaaaaaaq waaaaaaaaaaaaaaq<LineBreak/> waaaaaaaaaq waaaaaaaaaaaaaaaq</TextBlock>
+        <TextBlock Margin="10,57,101,211.5" TextTrimming="WordEllipsis">waq waaaaaaq waaaaaaaq waaaaaaaaaaq waaaaaaaaaaaaaaq waaaaaaaaaq waaaaaaaaaaaaaaaq</TextBlock>
+        <TextBlock Margin="10,116,387,111.5" TextWrapping="Wrap">waq waaaaaaq waaaaaaaq waaaaaaaaaaq waaaaaaaaaaaaaaq waaaaaaaaaq waaaaaaaaaaaaaaaq</TextBlock>
+        <TextBox x:Name="tbxName" HorizontalAlignment="Left" Height="23" Margin="294,157,0,0" TextWrapping="Wrap" Text="Skriv dit navn" VerticalAlignment="Top" Width="148"/>
+        <TextBox x:Name="tbxReadOnly" HorizontalAlignment="Left" Height="23" Margin="294,197,0,0" TextWrapping="Wrap" IsReadOnly="True" Text="Jeg kan fortælle dig hvad dit navn er!" VerticalAlignment="Top" Width="216"/>
+        <Button x:Name="btnShowName" Content="Vis navn" HorizontalAlignment="Left" Margin="214,160,0,0" VerticalAlignment="Top" Width="75" Click="btnShowName_Click"/>
+        <Label x:Name="lblName" Content="" HorizontalAlignment="Left" Margin="294,236,0,0" VerticalAlignment="Top" Width="148"/>
+
+    </Grid>
+</Window>

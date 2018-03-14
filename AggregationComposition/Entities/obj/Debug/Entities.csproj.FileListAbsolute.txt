@@ -1,0 +1,6 @@
+c:\users\malt2586\source\repos\AggregationComposition\Entities\bin\Debug\Entities.dll
+c:\users\malt2586\source\repos\AggregationComposition\Entities\bin\Debug\Entities.pdb
+c:\users\malt2586\source\repos\AggregationComposition\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\malt2586\source\repos\AggregationComposition\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+c:\users\malt2586\source\repos\AggregationComposition\Entities\obj\Debug\Entities.dll
+c:\users\malt2586\source\repos\AggregationComposition\Entities\obj\Debug\Entities.pdb

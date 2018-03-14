@@ -1,0 +1,7 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX19bStreamReader\bin\Debug\EX19bStreamReader.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX19bStreamReader\bin\Debug\EX19bStreamReader.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX19bStreamReader\bin\Debug\EX19bStreamReader.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX19bStreamReader\obj\Debug\EX19bStreamReader.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX19bStreamReader\obj\Debug\EX19bStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX19bStreamReader\obj\Debug\EX19bStreamReader.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX19bStreamReader\obj\Debug\EX19bStreamReader.pdb

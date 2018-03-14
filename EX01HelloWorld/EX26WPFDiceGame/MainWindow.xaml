@@ -1,0 +1,28 @@
+﻿<Window x:Class="EX26WPFDiceGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX26WPFDiceGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="lblHighScoreText" Content="Highscore:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lblHighScore" Content="n/a" HorizontalAlignment="Left" Margin="106,10,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lblScoreText" Content="Nuværende score:" HorizontalAlignment="Left" Margin="131,66,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lblScore" Content="n/a" HorizontalAlignment="Left" Margin="281,66,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lblLifeText" Content="Liv:" HorizontalAlignment="Left" Margin="131,98,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lblLife" Content="n/a" HorizontalAlignment="Left" Margin="171,98,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lblDice" Content="n/a" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" FontSize="36"/>
+        <Button x:Name="btnStartGame" Content="Start" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Top" Width="50" Click="btnStartGame_Click"/>
+        <Button x:Name="btnLower" Content="Under" HorizontalAlignment="Left" Margin="126,252,0,0" VerticalAlignment="Top" Width="75" Click="btnLower_Click"/>
+        <Button x:Name="btnHigher" Content="Over" HorizontalAlignment="Right" Margin="0,252,126,0" VerticalAlignment="Top" Width="75" Click="btnHigher_Click"/>
+        <Grid Margin="10,132,440,108.5">
+            <RadioButton x:Name="rbLife1" Content="1 Liv" HorizontalAlignment="Left" Margin="0,0,0,0" VerticalAlignment="Top" GroupName="rbLifeGroup" Height="22" Width="46" IsChecked="True" Checked="rbLife1_Checked"/>
+            <RadioButton x:Name="rbLife3" Content="3 Liv" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top" GroupName="rbLifeGroup" Height="22" Width="46" Checked="rbLife3_Checked"/>
+            <RadioButton x:Name="rbLife5" Content="5 Liv" HorizontalAlignment="Left" Margin="0,60,0,0" VerticalAlignment="Top" GroupName="rbLifeGroup" Height="22" Width="46" Checked="rbLife5_Checked"/>
+
+        </Grid>
+
+    </Grid>
+</Window>

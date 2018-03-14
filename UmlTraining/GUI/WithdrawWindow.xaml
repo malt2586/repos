@@ -1,0 +1,38 @@
+﻿<Window x:Class="GUI.WithdrawWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Withdraw" Height="240" Width="280">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblIDText" Content="ID:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Grid.Row="0"/>
+        <Label x:Name="lblNameText" Content="Name:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Grid.Row="1"/>
+        <Label x:Name="lblWithdrawal" Content="Withdrawal:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Grid.Row="4"/>
+        <Label x:Name="lblCurBalanceText" Content="Current Balance:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Grid.Row="2"/>
+        <Label x:Name="lblNewBalanceText" Content="New Balance:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Grid.Row="3"/>
+        
+        <Label x:Name="lblID" Content="ID" VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="1"/>
+        <Label x:Name="lblName" Content="Name" VerticalContentAlignment="Center" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="lblCurBalance" Content="Current Balance" VerticalContentAlignment="Center" Grid.Row="2" Grid.Column="1"/>
+        <Label x:Name="lblNewBalance" Content="New Balance" VerticalContentAlignment="Center" Grid.Row="3" Grid.Column="1"/>
+        <TextBox x:Name="tbxWithdrawal" TextWrapping="Wrap" Grid.Column="1" Grid.Row="4" VerticalContentAlignment="Center" Margin="0,3" TextChanged="TbxWithdrawal_TextChanged" Text="Withdrawal"/>
+        
+        <Button x:Name="btnWithdraw" Content="Withdraw" Grid.ColumnSpan="2" HorizontalAlignment="Left" Grid.Row="6" Grid.RowSpan="3" Padding="10,1" Click="BtnWithdraw_Click"/>
+
+    </Grid>
+</Window>

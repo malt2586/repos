@@ -1,0 +1,6 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX07BooleanAlgebra\bin\Debug\EX07BooleanAlgebra.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX07BooleanAlgebra\bin\Debug\EX07BooleanAlgebra.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX07BooleanAlgebra\bin\Debug\EX07BooleanAlgebra.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX07BooleanAlgebra\obj\Debug\EX07BooleanAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX07BooleanAlgebra\obj\Debug\EX07BooleanAlgebra.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX07BooleanAlgebra\obj\Debug\EX07BooleanAlgebra.pdb

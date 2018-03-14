@@ -1,0 +1,8 @@
+C:\Users\malt2586\source\repos\SoCPractice\DBAccess\bin\Debug\DBAccess.dll
+C:\Users\malt2586\source\repos\SoCPractice\DBAccess\bin\Debug\DBAccess.pdb
+C:\Users\malt2586\source\repos\SoCPractice\DBAccess\bin\Debug\Entities.dll
+C:\Users\malt2586\source\repos\SoCPractice\DBAccess\bin\Debug\Entities.pdb
+C:\Users\malt2586\source\repos\SoCPractice\DBAccess\obj\Debug\DBAccess.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\SoCPractice\DBAccess\obj\Debug\DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\SoCPractice\DBAccess\obj\Debug\DBAccess.dll
+C:\Users\malt2586\source\repos\SoCPractice\DBAccess\obj\Debug\DBAccess.pdb

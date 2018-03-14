@@ -1,0 +1,6 @@
+C:\Users\malt2586\source\repos\AspIT.MSJ.TinyApp\AspIT.MSJ.TinyApp.Core\bin\Debug\AspIT.MSJ.TinyApp.Core.dll
+C:\Users\malt2586\source\repos\AspIT.MSJ.TinyApp\AspIT.MSJ.TinyApp.Core\bin\Debug\AspIT.MSJ.TinyApp.Core.pdb
+C:\Users\malt2586\source\repos\AspIT.MSJ.TinyApp\AspIT.MSJ.TinyApp.Core\obj\Debug\AspIT.MSJ.TinyApp.Core.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\AspIT.MSJ.TinyApp\AspIT.MSJ.TinyApp.Core\obj\Debug\AspIT.MSJ.TinyApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\AspIT.MSJ.TinyApp\AspIT.MSJ.TinyApp.Core\obj\Debug\AspIT.MSJ.TinyApp.Core.dll
+C:\Users\malt2586\source\repos\AspIT.MSJ.TinyApp\AspIT.MSJ.TinyApp.Core\obj\Debug\AspIT.MSJ.TinyApp.Core.pdb

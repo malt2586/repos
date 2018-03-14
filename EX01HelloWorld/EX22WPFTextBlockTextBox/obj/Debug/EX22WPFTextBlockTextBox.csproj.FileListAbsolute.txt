@@ -1,0 +1,15 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\bin\Debug\EX22WPFTextBlockTextBox.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\bin\Debug\EX22WPFTextBlockTextBox.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\bin\Debug\EX22WPFTextBlockTextBox.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\EX22WPFTextBlockTextBox.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\MainWindow.g.cs
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\App.g.cs
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\EX22WPFTextBlockTextBox_MarkupCompile.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\EX22WPFTextBlockTextBox_MarkupCompile.lref
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\MainWindow.baml
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\EX22WPFTextBlockTextBox.g.resources
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\EX22WPFTextBlockTextBox.Properties.Resources.resources
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\EX22WPFTextBlockTextBox.csproj.GenerateResource.Cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\EX22WPFTextBlockTextBox.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\EX22WPFTextBlockTextBox.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX22WPFTextBlockTextBox\obj\Debug\EX22WPFTextBlockTextBox.pdb

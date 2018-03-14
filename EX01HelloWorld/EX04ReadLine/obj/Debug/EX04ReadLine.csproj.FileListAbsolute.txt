@@ -1,0 +1,7 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX04ReadLine\bin\Debug\EX04ReadLine.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX04ReadLine\bin\Debug\EX04ReadLine.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX04ReadLine\bin\Debug\EX04ReadLine.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX04ReadLine\obj\Debug\EX04ReadLine.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX04ReadLine\obj\Debug\EX04ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX04ReadLine\obj\Debug\EX04ReadLine.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX04ReadLine\obj\Debug\EX04ReadLine.pdb

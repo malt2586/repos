@@ -1,0 +1,20 @@
+﻿<Window x:Class="EX24WPFSmallGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX24WPFSmallGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock x:Name="tblGreenBg" Text="GUL" Background="Green" Margin="402,162,54,130.5" MouseEnter="tblGreenBg_MouseEnter"/>
+        <TextBlock x:Name="tblYellowBg" Text="GRØN" Background="Yellow" Margin="62,67,398,227.5" MouseRightButtonDown="tblYellowBg_MouseRightButtonDown"/>
+        <TextBlock x:Name="tblBigSize" Text="Lille kasse" Background="Pink" Margin="360,23,100,222.5" MouseDown="tblBigSize_MouseDown" MouseLeave="tblBigSize_MouseLeave"/>
+        <TextBlock x:Name="tblWide" Text="Bla bla bla bla bla bla bla" Background="Blue" Margin="338,278,26,14.5" MouseLeave="tblWide_MouseLeave"/>
+        <TextBlock x:Name="tblSmallText" Text="Jeg står med meget småt" Background="Yellow" Margin="40,278,382,14.5" FontSize="8" MouseEnter="tblSmallText_MouseEnter"/>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="200,198,200,53.5">
+            <TextBlock x:Name="tblMessage" Text="Her vil spillets instruktioner stå! Tryk Start Spillet for at begynde." TextAlignment="Center" TextWrapping="Wrap"/>
+        </Border>
+        <Button x:Name="btnStartGame" Content="Start Spillet!" Margin="200,130,200,130" Click="btnStartGame_Click"/>
+    </Grid>
+</Window>

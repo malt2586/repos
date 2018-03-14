@@ -1,0 +1,6 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01BmiCalculator\bin\Debug\ExtraEX01BmiCalculator.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01BmiCalculator\bin\Debug\ExtraEX01BmiCalculator.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01BmiCalculator\bin\Debug\ExtraEX01BmiCalculator.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01BmiCalculator\obj\Debug\ExtraEX01BmiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01BmiCalculator\obj\Debug\ExtraEX01BmiCalculator.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\ExtraEX01BmiCalculator\obj\Debug\ExtraEX01BmiCalculator.pdb

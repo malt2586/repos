@@ -1,0 +1,41 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="90"/>
+            <ColumnDefinition Width="90"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblCalcPrice" Content="Beregn fragtpris:" Grid.Row="0" HorizontalContentAlignment="Right" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblLength" Content="Længde:" Grid.Row="1" HorizontalContentAlignment="Right"/>
+        <Label x:Name="lblWidth" Content="Bredde:" Grid.Row="2" HorizontalContentAlignment="Right"/>
+        <Label x:Name="lblHeight" Content="Højde:" Grid.Row="3" HorizontalContentAlignment="Right"/>
+        <Label x:Name="lblWeight" Content="Vægt:" Grid.Row="4" HorizontalContentAlignment="Right"/>
+        <TextBox x:Name="tbxLength" Text="" Grid.Column="1" Grid.Row="1" VerticalContentAlignment="Center" Margin="0,3,5,3" MaxLines="1" MaxLength="3" PreviewTextInput="tbxLength_PreviewTextInput"/>
+        <TextBox x:Name="tbxWidth" Text="" Grid.Column="1" Grid.Row="2" VerticalContentAlignment="Center" Margin="0,3,5,3" MaxLines="1" MaxLength="3"/>
+        <TextBox x:Name="tbxHeight" Text="" Grid.Column="1" Grid.Row="3" VerticalContentAlignment="Center" Margin="0,3,5,3" MaxLines="1" MaxLength="3"/>
+        <TextBox x:Name="tbxWeight" Text="" Grid.Column="1" Grid.Row="4" VerticalContentAlignment="Center" Margin="0,3,5,3" MaxLines="1" MaxLength="5"/>
+        <Button x:Name="btnCalcPrice" Content="Beregn Fragt" Grid.Row="5" Margin="5,10,5,0" Click="btnCalcPrice_Click"/>
+        <Button x:Name="btnSend" Content="Send Pakke" Grid.Column="1" Grid.Row="5" Margin="5,10,5,0" Click="btnSend_Click"/>
+        <Label x:Name="lblPrice" Content="Beregnet fragt:" Grid.Row="6" Margin="0,10,0,0"/>
+        <TextBox x:Name="tbxPrice" Text="" Grid.Column="1" Grid.Row="6" VerticalContentAlignment="Center" Margin="0,13,5,3" MaxLines="1" IsReadOnly="True" MaxLength="10"/>
+        <Label x:Name="lblSendtPackets" Content="Sendte pakker:"  Grid.Column="2" Margin="5,0,0,0"/>
+        <ListBox x:Name="lbxSendtPackets" Grid.Column="2" Grid.Row="1" Grid.RowSpan="5" Margin="5,0,0,0"/>
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX10SwitchEnum\bin\Debug\EX10SwitchEnum.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX10SwitchEnum\bin\Debug\EX10SwitchEnum.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX10SwitchEnum\bin\Debug\EX10SwitchEnum.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX10SwitchEnum\obj\Debug\EX10SwitchEnum.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX10SwitchEnum\obj\Debug\EX10SwitchEnum.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX10SwitchEnum\obj\Debug\EX10SwitchEnum.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX10SwitchEnum\obj\Debug\EX10SwitchEnum.pdb

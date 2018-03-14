@@ -1,0 +1,15 @@
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\bin\Debug\EX23WPFMessageBox.exe.config
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\bin\Debug\EX23WPFMessageBox.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\bin\Debug\EX23WPFMessageBox.pdb
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\EX23WPFMessageBox.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\MainWindow.g.cs
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\App.g.cs
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\EX23WPFMessageBox_MarkupCompile.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\EX23WPFMessageBox_MarkupCompile.lref
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\MainWindow.baml
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\EX23WPFMessageBox.g.resources
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\EX23WPFMessageBox.Properties.Resources.resources
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\EX23WPFMessageBox.csproj.GenerateResource.Cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\EX23WPFMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\EX23WPFMessageBox.exe
+C:\Users\malt2586\source\repos\EX01HelloWorld\EX23WPFMessageBox\obj\Debug\EX23WPFMessageBox.pdb

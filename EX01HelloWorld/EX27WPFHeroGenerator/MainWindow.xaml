@@ -1,0 +1,19 @@
+﻿<Window x:Class="EX27WPFHeroGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX27WPFHeroGenerator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="lblNumberOfHeroes" Content="Number of hero names:" HorizontalAlignment="Left" Margin="43,41,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbxNumberOfHeroes" HorizontalAlignment="Left" Height="23" Margin="183,44,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="42" MaxLines="1" MaxLength="2"/>
+        <ListBox x:Name="lbxHeroNames" HorizontalAlignment="Left" Height="249" Margin="261,44,0,0" VerticalAlignment="Top" Width="226"/>
+        <Button x:Name="btnFemaleHeroes" Content="Generate Female Names" HorizontalAlignment="Left" Margin="73,87,0,0" VerticalAlignment="Top" Width="152" Height="25" Click="btnFemaleHeroes_Click"/>
+        <Button x:Name="btnMaleHeroes" Content="Generate Male Names" HorizontalAlignment="Left" Margin="73,132,0,0" VerticalAlignment="Top" Width="152" Height="25" Click="btnMaleHeroes_Click"/>
+        <Button x:Name="btnClear" Content="Clear Names" HorizontalAlignment="Left" Margin="73,177,0,0" VerticalAlignment="Top" Width="152" Height="25" Click="btnClear_Click"/>
+        <Button x:Name="btnSaveHeroes" Content="Save Heroes" HorizontalAlignment="Left" Margin="73,223,0,0" VerticalAlignment="Top" Width="152" Height="25" Click="btnSaveHeroes_Click"/>
+
+    </Grid>
+</Window>

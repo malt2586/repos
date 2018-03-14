@@ -1,0 +1,7 @@
+C:\Users\malt2586\source\repos\AspIT.BasicOOP\AspIT.BasicOOP.Game\bin\Debug\AspIT.BasicOOP.Game.exe.config
+C:\Users\malt2586\source\repos\AspIT.BasicOOP\AspIT.BasicOOP.Game\bin\Debug\AspIT.BasicOOP.Game.exe
+C:\Users\malt2586\source\repos\AspIT.BasicOOP\AspIT.BasicOOP.Game\bin\Debug\AspIT.BasicOOP.Game.pdb
+C:\Users\malt2586\source\repos\AspIT.BasicOOP\AspIT.BasicOOP.Game\obj\Debug\AspIT.BasicOOP.Game.csprojResolveAssemblyReference.cache
+C:\Users\malt2586\source\repos\AspIT.BasicOOP\AspIT.BasicOOP.Game\obj\Debug\AspIT.BasicOOP.Game.csproj.CoreCompileInputs.cache
+C:\Users\malt2586\source\repos\AspIT.BasicOOP\AspIT.BasicOOP.Game\obj\Debug\AspIT.BasicOOP.Game.exe
+C:\Users\malt2586\source\repos\AspIT.BasicOOP\AspIT.BasicOOP.Game\obj\Debug\AspIT.BasicOOP.Game.pdb
